@@ -9,6 +9,7 @@ namespace Retail_store_online
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //////
         }
     }
 }
